@@ -1,7 +1,5 @@
 # eCommerce 
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Karthika-Raj/pen/XWGbyOQ](https://codepen.io/Karthika-Raj/pen/XWGbyOQ).
-
 **subscribe newsletter screenshot:**
 <a href="#"><img src="https://i.ibb.co/fxCs4kP/IMG-20240223-142721.jpg" alt="IMG-20240223-142721" border="0"></a>
 
@@ -17,3 +15,5 @@ A Pen created on CodePen.io. Original URL: [https://codepen.io/Karthika-Raj/pen/
 
 **Footer page:**
 <a href="#"><img src="https://i.ibb.co/5BZQC5R/IMG-20240223-141847.jpg" alt="IMG-20240223-141847" border="0"></a>
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/Karthika-Raj/pen/XWGbyOQ](https://codepen.io/Karthika-Raj/pen/XWGbyOQ).
